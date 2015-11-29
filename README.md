@@ -1,2 +1,2 @@
 # InitialWork
-Initial work with MySQL, MySQL Workbrench and metrics-grimoire
+Initial work with MySQL, MySQL Workbench and metrics-grimoire.
